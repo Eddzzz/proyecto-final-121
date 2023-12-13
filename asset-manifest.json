@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proyecto-final-121/static/css/main.0cab3aed.css",
+    "main.js": "/proyecto-final-121/static/js/main.fa53f3a3.js",
+    "static/media/Team3.png": "/proyecto-final-121/static/media/Team3.2046e0af7f081abe6089.png",
+    "static/media/Team4.png": "/proyecto-final-121/static/media/Team4.1a574572d6af84637ff4.png",
+    "static/media/Team2.png": "/proyecto-final-121/static/media/Team2.5413c9d4507bf145ae3e.png",
+    "static/media/Team1.png": "/proyecto-final-121/static/media/Team1.01e87fff7fdc73652ade.png",
+    "static/media/about1.png": "/proyecto-final-121/static/media/about1.1b11bb330875f7207b7f.png",
+    "static/media/hero.png": "/proyecto-final-121/static/media/hero.e2c75b78eecd430b4c0b.png",
+    "static/media/bg-hero.jpg": "/proyecto-final-121/static/media/bg-hero.bdc8de5f63641403a9bf.jpg",
+    "static/media/about-4.jpg": "/proyecto-final-121/static/media/about-4.b11ab8f1db29d1e0db20.jpg",
+    "static/media/about-2.jpg": "/proyecto-final-121/static/media/about-2.0c0ef7e55155ddcfa5bd.jpg",
+    "static/media/about-3.jpg": "/proyecto-final-121/static/media/about-3.174ecd5e7e375eca4e46.jpg",
+    "index.html": "/proyecto-final-121/index.html",
+    "main.0cab3aed.css.map": "/proyecto-final-121/static/css/main.0cab3aed.css.map",
+    "main.fa53f3a3.js.map": "/proyecto-final-121/static/js/main.fa53f3a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cab3aed.css",
+    "static/js/main.fa53f3a3.js"
+  ]
+}
